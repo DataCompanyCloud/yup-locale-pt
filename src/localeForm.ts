@@ -34,6 +34,7 @@ export const string = {
   trim: 'O campo não deve conter espaços adicionais no início nem no fim.',
   lowercase: 'O campo deve estar em letras minúsculas.',
   uppercase: 'O campo deve estar em letras maiúsculas.',
+  uuid: 'Deve ser um UUID válido'
 };
 
 export const number = {

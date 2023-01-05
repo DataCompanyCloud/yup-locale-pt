@@ -34,6 +34,7 @@ export const string = {
   trim: 'Não deve conter espaços adicionais no início nem no fim.',
   lowercase: 'Deve estar em letras minúsculas.',
   uppercase: 'Deve estar em letras maiúsculas.',
+  uuid: 'Deve ser um UUID válido'
 };
 
 export const number = {
